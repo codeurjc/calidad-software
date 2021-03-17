@@ -32,6 +32,6 @@ Estos ejemplos muestran cómo se convierte una aplicación Spring con API REST m
 
 ## Ejemplo 5
 
-* Se eliminan las anotaciones de Spring del code (modelo y lógica) para que esté lo más desacoplado posible de la tecnología (y sea más reutilizable y testeable)
+* Se eliminan las anotaciones de Spring del core (modelo y lógica) para que esté lo más desacoplado posible de la tecnología (y sea más reutilizable y testeable)
 * Se añaden tests de la lógica de negocio (unitarios) y de la API REST (E2E).
 
