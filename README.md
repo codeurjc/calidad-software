@@ -45,3 +45,4 @@ Se han identificado las siguientes mejoras a estos ejemplos:
 * Estaría bien introducir otra tecnología de repositorio (en disco), pero sin usar JPA en un principio, para evitar la problemática de las anotaciones en el modelo.
 * Habría que desacoplar las entidades del modelo con DTOs para que no se expongan más allá del core.
 * Una vez desacopladas las entidades del modelo, se podría usar JPA.
+* Crear slides para explicar cada uno de los pasos de forma gráfica.
